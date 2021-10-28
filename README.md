@@ -19,4 +19,5 @@
 
 ### In this project I developed using HTML5 and CSS3 in the standard format for email marketing.
 <br>
-### I developed this project using the "first mobile" concept.
+
+## I developed this project using the "first mobile" concept.
